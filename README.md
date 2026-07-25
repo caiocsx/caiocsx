@@ -55,13 +55,13 @@ Atualmente curso Análise e Desenvolvimento de Sistemas (ADS).
 
 # Status
 
-<a href="https://github-readme-stats.shion.dev">
-  <img height=200 align="center" src="https://github-readme-stats.shion.dev/api?username=CaioCesarMDS&show_icons=true&theme=dracula" />
+<a href="https://github-stats-extended.vercel.app/">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=caiocsx&show_icons=true&theme=dracula" />
 </a>
 <br>
 <br>
-<a href="https://github-readme-stats.shion.dev">
-  <img height=200 align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=CaioCesarMDS&show_icons=true&theme=dracula&layout=compact&langs_count=12&card_width=503"/>
+<a href="https://github-stats-extended.vercel.app/">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=caiocsx&show_icons=true&theme=dracula&layout=compact&langs_count=12&card_width=503"/>
 </a>
 
 
